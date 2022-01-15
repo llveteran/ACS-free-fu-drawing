@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="auto_painter_v2.cpp" />
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="HotKeyHelper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.hpp" />
+    <ClInclude Include="HotKeyHelper.h" />
+    <ClInclude Include="stb_image.h" />
+  </ItemGroup>
+</Project>
